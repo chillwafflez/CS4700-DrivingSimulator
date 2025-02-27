@@ -6,6 +6,7 @@ public class FollowPlayer : MonoBehaviour
     private Vector3 offset = new Vector3(0, 5, -7);
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    // note: change camera view after start
     void Start()
     {
         
