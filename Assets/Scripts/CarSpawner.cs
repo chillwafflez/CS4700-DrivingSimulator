@@ -30,13 +30,13 @@ public class CarSpawner : MonoBehaviour
     void SpawnCar()
     {
         Vector3 spawnPos = new Vector3(
-        Random.Range(-10f, 10f),  // Adjust width range based on the ramp
+        Random.Range(-10f, 10f),  // change width range based on the ramp
         spawnPoint.position.y,
         spawnPoint.position.z);
 
         GameObject newCar = Instantiate(car, spawnPos, spawnPoint.rotation);
 
-        // Set random speed for variation
+        // give cars random speeds
         CarMover carScript = newCar.GetComponent<CarMover>();
         if (carScript != null)
         {
