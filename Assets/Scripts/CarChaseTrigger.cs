@@ -25,22 +25,26 @@
 //        GameObject largeCar = Instantiate(largeCarPrefab, spawnPos, Quaternion.identity);
 
 //        // Make sure the large car moves forward
-//        LargeCarMover carMover = largeCar.GetComponent<LargeCarMover>();
+//        BusMover carMover = largeCar.GetComponent<BusMover>();
 //        if (carMover != null)
 //        {
 //            carMover.isChasing = true;
 //        }
+
+//        // Check if large car has reached end point
+
+
 //    }
 
 //    // Start is called once before the first execution of Update after the MonoBehaviour is created
 //    void Start()
 //    {
-        
+
 //    }
 
 //    // Update is called once per frame
 //    void Update()
 //    {
-        
+
 //    }
 //}
