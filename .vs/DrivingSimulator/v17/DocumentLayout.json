@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\assets\\scripts\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\assets\\scripts\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|c:\\users\\nguy3\\desktop\\gamedev\\assignment_1\\drivingsimulator\\assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\busmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\assets\\scripts\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\assets\\scripts\\carmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\assets\\scripts\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{557D0119-2812-67FE-754C-BF3E4956DB8E}|Assembly-CSharp.csproj|C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\assets\\scripts\\carchasetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\Assets\\Scripts\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FollowPlayer.cs",
@@ -64,12 +64,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FinishLine.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T02:44:46.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T02:44:46.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BusMover.cs",
               "DocumentMoniker": "C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\Assets\\Scripts\\BusMover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BusMover.cs",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Assets\\Scripts\\BusMover.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T02:01:03.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T02:01:03.139Z"
             },
             {
               "$type": "Document",
@@ -90,12 +88,11 @@
               "RelativeToolTip": "Assets\\Scripts\\CarChaseTrigger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T11:07:50.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T11:07:50.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CarSpawner.cs",
               "DocumentMoniker": "C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\Assets\\Scripts\\CarSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarSpawner.cs",
@@ -108,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CarMover.cs",
               "DocumentMoniker": "C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\Assets\\Scripts\\CarMover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CarMover.cs",
@@ -116,18 +113,17 @@
               "RelativeToolTip": "Assets\\Scripts\\CarMover.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T02:42:32.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T02:42:32.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "VehicleController.cs",
               "DocumentMoniker": "C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\Assets\\Scripts\\VehicleController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\VehicleController.cs",
               "ToolTip": "C:\\Users\\nguy3\\Desktop\\GameDev\\Assignment_1\\DrivingSimulator\\Assets\\Scripts\\VehicleController.cs",
               "RelativeToolTip": "Assets\\Scripts\\VehicleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T05:12:31.307Z",
               "EditorCaption": ""
